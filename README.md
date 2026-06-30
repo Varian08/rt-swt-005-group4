@@ -3,16 +3,16 @@
 **Học phần:** SWT301 — Research-Based Learning  
 **Topic:** RT-SWT-005  
 **Nhóm:** 4  
-**GV hướng dẫn:** L.T.Q.Chi
+**GV hướng dẫn:**
 
 ## Thành viên
 
-| Họ tên          | MSSV     | Role    |
-| --------------- | -------- | ------- |
-| Lê Trần Gia Huy | SE193344 | PL + RW |
-| Lê Chí Tâm      | SE190322 | DG      |
-| Nguyễn Tiến Phú | SE190131 | LR      |
-| Trương Văn An   | SE194268 | MS      |
+| Họ tên | MSSV | Role    |
+| ------ | ---- | ------- |
+|        |      | PL + RW |
+|        |      | DG      |
+|        |      | LR      |
+|        |      | MS      |
 
 ## Đề tài
 
